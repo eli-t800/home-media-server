@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+CURRENT-CONFIGURATION.md
+Dockerfile
+CHANGELOG.md
+compose.example.yaml
+extra/
+scan-mediaserver-report.txt
+setup.sh
